@@ -28,9 +28,9 @@ end
 
 items = []
 
-PAGES.each_with_index do |use, idx|
+PAGES.each do |use|
 
-  items[idx] = []
+  puts "Scraping loot for #{use[0]}"
 
   doc = open("http://wow-loot.com/#{use[1]}") { |f|
     Hpricot(f)
@@ -56,7 +56,7 @@ PAGES.each_with_index do |use, idx|
     x = x.next_sibling
     item << parse_classes_from(x)
 
-    items[idx] << item
+    items << item
   end
 
 end
@@ -64,20 +64,12 @@ end
 File.open("items.lua", "w+") do |f|
   f.puts %q(WowLootItems = {)
 
-  PAGES.each_with_index do |page, idx|
-
-    f.puts %Q(["#{page[0]}"] = { )
-  
-    items[idx].each do |item|
-      f.puts %Q(\t["#{item[0]}"] = {)
-      f.puts %Q(\t\t["Primary"] = "#{item[1].join(", ")}",)
-      f.puts %Q(\t\t["Secondary"] = "#{item[2].join(", ")}",)
-      f.puts %Q(\t\t["Tertiary"] = "#{item[3].join(", ")}",)
-      f.puts "\t},"
-    end
-
-    f.puts "},"
-
+  items.each do |item|
+    f.puts %Q(\t["#{item[0]}"] = {)
+    f.puts %Q(\t\t["Primary"] = "#{item[1].join(", ")}",)
+    f.puts %Q(\t\t["Secondary"] = "#{item[2].join(", ")}",)
+    f.puts %Q(\t\t["Tertiary"] = "#{item[3].join(", ")}",)
+    f.puts "\t},"
   end
 
   f.puts "}"
