@@ -1,5 +1,4 @@
 WowLootItems = {
-["Naxxramas-Normal"] = { 
 	["39190"] = {
 		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
 		["Secondary"] = "Druid: Balance, Druid: Restoration",
@@ -645,8 +644,6 @@ WowLootItems = {
 		["Secondary"] = "Hunter",
 		["Tertiary"] = "Warrior: DPS",
 	},
-},
-["Naxxramas-Heroic"] = { 
 	["39702"] = {
 		["Primary"] = "Hunter, Shaman: Enhancement",
 		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
@@ -2082,8 +2079,6 @@ WowLootItems = {
 		["Secondary"] = "Hunter, Death Knight: DPS",
 		["Tertiary"] = "Warrior: DPS",
 	},
-},
-["OS-Normal"] = { 
 	["43990"] = {
 		["Primary"] = "Rogue, Druid: Feral",
 		["Secondary"] = "Hunter, Shaman: Enhancement",
@@ -2124,8 +2119,6 @@ WowLootItems = {
 		["Secondary"] = "",
 		["Tertiary"] = "",
 	},
-},
-["OS-Heroic"] = { 
 	["40453"] = {
 		["Primary"] = "Paladin: Holy",
 		["Secondary"] = "",
@@ -2176,8 +2169,6 @@ WowLootItems = {
 		["Secondary"] = "Shaman: Elemental, Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
 		["Tertiary"] = "",
 	},
-},
-["EOE-Normal"] = { 
 	["40475"] = {
 		["Primary"] = "Warrior: Protection, Paladin: Protection",
 		["Secondary"] = "",
@@ -2228,8 +2219,6 @@ WowLootItems = {
 		["Secondary"] = "",
 		["Tertiary"] = "",
 	},
-},
-["EOE-Heroic"] = { 
 	["40558"] = {
 		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
 		["Secondary"] = "Druid: Balance, Druid: Restoration",
@@ -2330,5 +2319,4 @@ WowLootItems = {
 		["Secondary"] = "Paladin: Holy",
 		["Tertiary"] = "",
 	},
-},
 }
