@@ -6,7 +6,7 @@
 ##
 ## Author: James Kilton
 ##
-## LoadOnDemand: 1
+## LoadOnDemand: 0
 
-WowLoot.lua
 WowLootItems.lua
+WowLoot.lua
