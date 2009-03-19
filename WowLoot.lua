@@ -39,7 +39,7 @@ local function getSpecsFor(itemLink, list)
 	if item then
 		return item[list]
 	else
-		return "Unknown Item"
+		return ""
 	end
 end
 
