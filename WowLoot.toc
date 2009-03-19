@@ -1,9 +1,11 @@
 ## Interface: 30000
-
+##
 ## Title: Wow Loot
 ## Notes: An in-game mod to access data found on wow-loot.com
 ## Version: 3.09
-
+##
 ## Author: James Kilton
+##
+## LoadOnDemand: 1
 
-WowLoot.xml
+WowLoot.lua
