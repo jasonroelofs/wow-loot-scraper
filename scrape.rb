@@ -65,7 +65,7 @@ File.open("WowLootItems.lua", "w+") do |f|
   f.puts %q(WowLootItems = {)
 
   items.each do |item|
-    f.puts %Q(\t["#{item[0]}"] = {)
+    f.puts %Q(\t[#{item[0]}] = {)
     f.puts %Q(\t\t["Primary"] = "#{item[1].join(", ")}",)
     f.puts %Q(\t\t["Secondary"] = "#{item[2].join(", ")}",)
     f.puts %Q(\t\t["Tertiary"] = "#{item[3].join(", ")}",)
