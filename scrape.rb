@@ -61,7 +61,7 @@ PAGES.each do |use|
 
 end
 
-File.open("items.lua", "w+") do |f|
+File.open("WowLootItems.lua", "w+") do |f|
   f.puts %q(WowLootItems = {)
 
   items.each do |item|
