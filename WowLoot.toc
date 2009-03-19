@@ -9,3 +9,4 @@
 ## LoadOnDemand: 1
 
 WowLoot.lua
+WowLootItems.lua
