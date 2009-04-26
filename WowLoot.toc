@@ -1,4 +1,4 @@
-## Interface: 30000
+## Interface: 30100
 ##
 ## Title: Wow Loot
 ## Notes: An in-game mod to access data found on wow-loot.com

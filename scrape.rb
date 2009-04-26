@@ -11,7 +11,9 @@ PAGES = [
   %w(OS-Normal raid_obsidian10.htm),
   %w(OS-Heroic raid_obsidian25.htm),
   %w(EOE-Normal raid_eternity10.htm),
-  %w(EOE-Heroic raid_eternity25.htm)
+  %w(EOE-Heroic raid_eternity25.htm),
+  %w(Uld-Normal raid_ulduar10.htm),
+  %w(Uld-Heroic raid_ulduar25.htm)
 ].freeze
 
 # Given a td row, parse through the images and

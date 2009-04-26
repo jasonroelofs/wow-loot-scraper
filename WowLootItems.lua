@@ -2319,4 +2319,974 @@ WowLootItems = {
 		["Secondary"] = "Paladin: Holy",
 		["Tertiary"] = "",
 	},
+	[45291] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Priest: Healer",
+		["Tertiary"] = "Druid: Balance",
+	},
+	[45292] = {
+		["Primary"] = "Paladin: Holy, Shaman: Restoration, Druid: Restoration, Priest: Healer",
+		["Secondary"] = "Shaman: Elemental, Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Tertiary"] = "",
+	},
+	[45287] = {
+		["Primary"] = "Mage, Warlock",
+		["Secondary"] = "Paladin: Holy",
+		["Tertiary"] = "",
+	},
+	[45288] = {
+		["Primary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Secondary"] = "Paladin: Holy",
+		["Tertiary"] = "",
+	},
+	[45283] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45282] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Druid: Feral, Death Knight: DPS",
+		["Secondary"] = "Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45284] = {
+		["Primary"] = "Rogue",
+		["Secondary"] = "Hunter",
+		["Tertiary"] = "Warrior: DPS",
+	},
+	[45289] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Druid: Balance, Druid: Restoration",
+		["Tertiary"] = "Shaman: Elemental, Shaman: Restoration",
+	},
+	[45285] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Druid: Feral, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45286] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Hunter, Shaman: Enhancement, Rogue, Druid: Feral, Death Knight: DPS",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45303] = {
+		["Primary"] = "Hunter, Shaman: Enhancement, Rogue, Druid: Feral",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45306] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Druid: Balance, Druid: Restoration",
+		["Tertiary"] = "Shaman: Elemental, Shaman: Restoration",
+	},
+	[45301] = {
+		["Primary"] = "Hunter, Shaman: Enhancement",
+		["Secondary"] = "Paladin: Retribution",
+		["Tertiary"] = "",
+	},
+	[45305] = {
+		["Primary"] = "Paladin: Holy",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45299] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45308] = {
+		["Primary"] = "Shaman: Elemental, Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Paladin: Holy, Shaman: Restoration, Druid: Restoration, Priest: Healer",
+		["Tertiary"] = "",
+	},
+	[45307] = {
+		["Primary"] = "Shaman: Restoration",
+		["Secondary"] = "Shaman: Elemental",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45298] = {
+		["Primary"] = "Rogue",
+		["Secondary"] = "Hunter, Death Knight: DPS",
+		["Tertiary"] = "Warrior: DPS",
+	},
+	[45304] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45302] = {
+		["Primary"] = "Rogue, Druid: Feral",
+		["Secondary"] = "Shaman: Enhancement",
+		["Tertiary"] = "Paladin: Retribution",
+	},
+	[45680] = {
+		["Primary"] = "Paladin: Holy",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45676] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45694] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Druid: Balance, Druid: Restoration",
+		["Tertiary"] = "Shaman: Elemental, Shaman: Restoration",
+	},
+	[45679] = {
+		["Primary"] = "Hunter, Shaman: Enhancement",
+		["Secondary"] = "Paladin: Retribution",
+		["Tertiary"] = "",
+	},
+	[45687] = {
+		["Primary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Secondary"] = "Paladin: Holy",
+		["Tertiary"] = "",
+	},
+	[45685] = {
+		["Primary"] = "Shaman: Elemental, Shaman: Restoration, Druid: Balance, Druid: Restoration, Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45675] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Druid: Feral, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45682] = {
+		["Primary"] = "Paladin: Holy, Shaman: Elemental, Shaman: Restoration",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45677] = {
+		["Primary"] = "Rogue, Druid: Feral",
+		["Secondary"] = "Hunter, Shaman: Enhancement",
+		["Tertiary"] = "Paladin: Retribution",
+	},
+	[45686] = {
+		["Primary"] = "Druid: Balance, Druid: Restoration",
+		["Secondary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45316] = {
+		["Primary"] = "Shaman: Restoration",
+		["Secondary"] = "Shaman: Elemental",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45318] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Druid: Feral, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45313] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Druid: Feral, Death Knight: Tank",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45310] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45312] = {
+		["Primary"] = "Rogue, Druid: Feral",
+		["Secondary"] = "Hunter, Shaman: Enhancement",
+		["Tertiary"] = "Paladin: Retribution",
+	},
+	[45314] = {
+		["Primary"] = "Druid: Balance, Druid: Restoration, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Paladin: Holy, Shaman: Elemental, Shaman: Restoration, Mage",
+		["Tertiary"] = "",
+	},
+	[45321] = {
+		["Primary"] = "Paladin: Holy",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45311] = {
+		["Primary"] = "Hunter, Druid: Feral",
+		["Secondary"] = "Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "Warrior: DPS",
+	},
+	[45309] = {
+		["Primary"] = "Hunter",
+		["Secondary"] = "Warrior: DPS, Rogue",
+		["Tertiary"] = "",
+	},
+	[45317] = {
+		["Primary"] = "Paladin: Holy, Shaman: Restoration, Druid: Restoration, Priest: Healer",
+		["Secondary"] = "Shaman: Elemental, Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Tertiary"] = "",
+	},
+	[45333] = {
+		["Primary"] = "Shaman: Restoration",
+		["Secondary"] = "Shaman: Elemental",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45378] = {
+		["Primary"] = "Druid: Balance, Druid: Restoration",
+		["Secondary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45329] = {
+		["Primary"] = "Hunter, Shaman: Enhancement",
+		["Secondary"] = "Paladin: Retribution",
+		["Tertiary"] = "",
+	},
+	[45322] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Druid: Feral, Death Knight: Tank",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45330] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45418] = {
+		["Primary"] = "Paladin: Holy, Shaman: Elemental, Shaman: Restoration, Druid: Balance, Druid: Restoration, Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45324] = {
+		["Primary"] = "Rogue, Druid: Feral",
+		["Secondary"] = "Hunter, Shaman: Enhancement",
+		["Tertiary"] = "Paladin: Retribution",
+	},
+	[45331] = {
+		["Primary"] = "Rogue",
+		["Secondary"] = "Hunter, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45423] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Druid: Balance, Druid: Restoration",
+		["Tertiary"] = "Shaman: Elemental, Shaman: Restoration",
+	},
+	[45332] = {
+		["Primary"] = "Shaman: Elemental, Shaman: Restoration, Druid: Balance, Druid: Restoration, Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45702] = {
+		["Primary"] = "Shaman: Elemental, Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Paladin: Holy, Shaman: Restoration, Druid: Restoration, Priest: Healer",
+		["Tertiary"] = "",
+	},
+	[45701] = {
+		["Primary"] = "Shaman: Restoration",
+		["Secondary"] = "Shaman: Elemental",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45696] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Druid: Feral, Death Knight: Tank",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45699] = {
+		["Primary"] = "Shaman: Elemental, Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Paladin: Holy, Shaman: Restoration, Druid: Restoration, Priest: Healer",
+		["Tertiary"] = "",
+	},
+	[45698] = {
+		["Primary"] = "Paladin: Holy",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45704] = {
+		["Primary"] = "Hunter, Shaman: Enhancement, Rogue, Druid: Feral",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+	},
+	[45697] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45703] = {
+		["Primary"] = "Druid: Restoration, Priest: Healer",
+		["Secondary"] = "Paladin: Holy, Shaman: Restoration, Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Tertiary"] = "Shaman: Elemental",
+	},
+	[45695] = {
+		["Primary"] = "Hunter, Druid: Feral",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45700] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection",
+		["Secondary"] = "Death Knight: Tank, Death Knight: DPS",
+		["Tertiary"] = "Hunter, Rogue",
+	},
+	[45708] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45712] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45864] = {
+		["Primary"] = "Druid: Balance, Druid: Restoration",
+		["Secondary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45866] = {
+		["Primary"] = "Shaman: Elemental, Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Paladin: Holy, Shaman: Restoration, Druid: Restoration, Priest: Healer",
+		["Tertiary"] = "",
+	},
+	[45711] = {
+		["Primary"] = "Hunter, Shaman: Enhancement",
+		["Secondary"] = "Paladin: Retribution",
+		["Tertiary"] = "",
+	},
+	[45832] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Druid: Balance, Druid: Restoration",
+		["Tertiary"] = "Shaman: Elemental, Shaman: Restoration",
+	},
+	[45709] = {
+		["Primary"] = "Rogue, Druid: Feral",
+		["Secondary"] = "Hunter, Shaman: Enhancement",
+		["Tertiary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+	},
+	[45713] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45865] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Priest: Healer",
+		["Tertiary"] = "Druid: Restoration",
+	},
+	[45707] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45972] = {
+		["Primary"] = "Paladin: Holy, Shaman: Restoration, Druid: Restoration, Priest: Healer",
+		["Secondary"] = "Shaman: Elemental, Druid: Balance, Priest: Offensive Caster",
+		["Tertiary"] = "",
+	},
+	[45973] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45941] = {
+		["Primary"] = "Hunter, Shaman: Enhancement",
+		["Secondary"] = "Paladin: Retribution",
+		["Tertiary"] = "",
+	},
+	[45644] = {
+		["Primary"] = "Paladin: Holy, Paladin: Protection, Paladin: Retribution, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45645] = {
+		["Primary"] = "Warrior: Protection, Warrior: DPS, Hunter, Shaman: Elemental, Shaman: Enhancement, Shaman: Restoration",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45646] = {
+		["Primary"] = "Rogue, Druid: Balance, Druid: Feral, Druid: Restoration, Mage, Death Knight: Tank, Death Knight: DPS",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45935] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45936] = {
+		["Primary"] = "Paladin: Holy",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45940] = {
+		["Primary"] = "Rogue, Druid: Feral",
+		["Secondary"] = "Hunter, Shaman: Enhancement",
+		["Tertiary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+	},
+	[45934] = {
+		["Primary"] = "Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Druid: Restoration, Priest: Healer",
+		["Tertiary"] = "Shaman: Elemental",
+	},
+	[45117] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Druid: Balance, Druid: Restoration",
+		["Tertiary"] = "Shaman: Elemental, Shaman: Restoration",
+	},
+	[45119] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Druid: Balance, Druid: Restoration",
+		["Tertiary"] = "Shaman: Elemental, Shaman: Restoration",
+	},
+	[45116] = {
+		["Primary"] = "Paladin: Holy, Shaman: Restoration, Druid: Restoration, Priest: Healer",
+		["Secondary"] = "Shaman: Elemental, Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Tertiary"] = "",
+	},
+	[45109] = {
+		["Primary"] = "Hunter, Shaman: Enhancement",
+		["Secondary"] = "Paladin: Retribution",
+		["Tertiary"] = "",
+	},
+	[45113] = {
+		["Primary"] = "Paladin: Holy, Shaman: Elemental, Shaman: Restoration, Druid: Balance, Druid: Restoration, Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45107] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45115] = {
+		["Primary"] = "Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Shaman: Elemental",
+		["Tertiary"] = "Paladin: Holy, Shaman: Restoration, Druid: Restoration, Priest: Healer",
+	},
+	[45108] = {
+		["Primary"] = "Rogue, Druid: Feral",
+		["Secondary"] = "Hunter, Shaman: Enhancement",
+		["Tertiary"] = "Paladin: Retribution",
+	},
+	[45111] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45086] = {
+		["Primary"] = "Rogue",
+		["Secondary"] = "Warrior: DPS",
+		["Tertiary"] = "Hunter",
+	},
+	[45114] = {
+		["Primary"] = "Shaman: Restoration",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45118] = {
+		["Primary"] = "Shaman: Restoration",
+		["Secondary"] = "Shaman: Elemental",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45106] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Druid: Feral, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45112] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Druid: Feral, Death Knight: Tank",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45110] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection",
+		["Secondary"] = "Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45151] = {
+		["Primary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Secondary"] = "Paladin: Holy",
+		["Tertiary"] = "",
+	},
+	[45149] = {
+		["Primary"] = "Druid: Balance, Druid: Restoration",
+		["Secondary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45150] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Priest: Healer",
+		["Tertiary"] = "Druid: Balance",
+	},
+	[45139] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection",
+		["Secondary"] = "Death Knight: Tank",
+		["Tertiary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+	},
+	[45138] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Druid: Feral, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45147] = {
+		["Primary"] = "Paladin: Holy, Shaman: Restoration, Druid: Restoration, Priest: Healer",
+		["Secondary"] = "Shaman: Elemental, Druid: Balance",
+		["Tertiary"] = "",
+	},
+	[45510] = {
+		["Primary"] = "Paladin: Retribution",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45148] = {
+		["Primary"] = "Shaman: Elemental, Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Paladin: Holy, Shaman: Restoration, Druid: Restoration, Priest: Healer",
+		["Tertiary"] = "",
+	},
+	[45141] = {
+		["Primary"] = "Rogue, Druid: Feral",
+		["Secondary"] = "Shaman: Enhancement",
+		["Tertiary"] = "Hunter",
+	},
+	[45140] = {
+		["Primary"] = "Paladin: Holy",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45142] = {
+		["Primary"] = "Rogue",
+		["Secondary"] = "Hunter, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45143] = {
+		["Primary"] = "Hunter, Shaman: Enhancement",
+		["Secondary"] = "Paladin: Retribution",
+		["Tertiary"] = "",
+	},
+	[45146] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Druid: Balance, Druid: Restoration",
+		["Tertiary"] = "Shaman: Elemental, Shaman: Restoration",
+	},
+	[45144] = {
+		["Primary"] = "Death Knight: Tank",
+		["Secondary"] = "Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45137] = {
+		["Primary"] = "Warrior: Protection",
+		["Secondary"] = "Hunter",
+		["Tertiary"] = "",
+	},
+	[45260] = {
+		["Primary"] = "Druid: Balance, Druid: Restoration",
+		["Secondary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45249] = {
+		["Primary"] = "Hunter, Shaman: Enhancement",
+		["Secondary"] = "Paladin: Retribution",
+		["Tertiary"] = "",
+	},
+	[45248] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45250] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Druid: Feral, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45246] = {
+		["Primary"] = "Rogue",
+		["Secondary"] = "Hunter",
+		["Tertiary"] = "",
+	},
+	[45252] = {
+		["Primary"] = "Paladin: Holy",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45253] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Druid: Balance, Druid: Restoration",
+		["Tertiary"] = "Shaman: Elemental, Shaman: Restoration",
+	},
+	[45257] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Priest: Healer",
+		["Tertiary"] = "",
+	},
+	[45259] = {
+		["Primary"] = "Shaman: Restoration",
+		["Secondary"] = "Shaman: Elemental",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45258] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Priest: Healer",
+		["Tertiary"] = "Druid: Balance",
+	},
+	[45251] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45254] = {
+		["Primary"] = "Death Knight: DPS",
+		["Secondary"] = "Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45247] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection",
+		["Secondary"] = "Druid: Feral, Death Knight: Tank",
+		["Tertiary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+	},
+	[45255] = {
+		["Primary"] = "Shaman: Elemental",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45256] = {
+		["Primary"] = "Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Shaman: Elemental",
+		["Tertiary"] = "Druid: Restoration, Priest: Healer",
+	},
+	[45166] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45157] = {
+		["Primary"] = "Hunter, Shaman: Enhancement, Rogue, Druid: Feral",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45162] = {
+		["Primary"] = "Rogue, Druid: Feral",
+		["Secondary"] = "Hunter, Shaman: Enhancement",
+		["Tertiary"] = "Paladin: Retribution",
+	},
+	[45185] = {
+		["Primary"] = "Druid: Balance, Druid: Restoration",
+		["Secondary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45161] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45158] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Druid: Feral, Death Knight: Tank",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45164] = {
+		["Primary"] = "Hunter, Shaman: Enhancement",
+		["Secondary"] = "Paladin: Retribution",
+		["Tertiary"] = "",
+	},
+	[45171] = {
+		["Primary"] = "Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Shaman: Elemental",
+		["Tertiary"] = "Druid: Restoration, Priest: Healer",
+	},
+	[45167] = {
+		["Primary"] = "Paladin: Holy",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45168] = {
+		["Primary"] = "Paladin: Holy, Shaman: Elemental, Shaman: Restoration, Druid: Balance, Druid: Restoration, Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45170] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45186] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Priest: Healer",
+		["Tertiary"] = "Druid: Balance",
+	},
+	[45169] = {
+		["Primary"] = "Shaman: Enhancement",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45165] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: Tank, Death Knight: DPS",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45187] = {
+		["Primary"] = "Shaman: Restoration",
+		["Secondary"] = "Shaman: Elemental",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45226] = {
+		["Primary"] = "Paladin: Holy",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45224] = {
+		["Primary"] = "Hunter, Shaman: Enhancement, Rogue, Druid: Feral",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+	},
+	[45228] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection",
+		["Secondary"] = "Death Knight: Tank",
+		["Tertiary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+	},
+	[45193] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Druid: Feral, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45227] = {
+		["Primary"] = "Hunter, Shaman: Enhancement",
+		["Secondary"] = "Paladin: Retribution",
+		["Tertiary"] = "",
+	},
+	[45238] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Priest: Healer",
+		["Tertiary"] = "Druid: Balance",
+	},
+	[45237] = {
+		["Primary"] = "Druid: Balance, Druid: Restoration",
+		["Secondary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45235] = {
+		["Primary"] = "Paladin: Holy, Shaman: Restoration, Druid: Restoration, Priest: Healer",
+		["Secondary"] = "Shaman: Elemental, Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Tertiary"] = "",
+	},
+	[45240] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Druid: Balance, Druid: Restoration",
+		["Tertiary"] = "Shaman: Elemental, Shaman: Restoration",
+	},
+	[45234] = {
+		["Primary"] = "Druid: Balance, Druid: Restoration, Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Tertiary"] = "",
+	},
+	[45233] = {
+		["Primary"] = "Hunter",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45232] = {
+		["Primary"] = "Rogue, Druid: Feral",
+		["Secondary"] = "Shaman: Enhancement",
+		["Tertiary"] = "Hunter",
+	},
+	[45239] = {
+		["Primary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Secondary"] = "Paladin: Holy",
+		["Tertiary"] = "",
+	},
+	[45225] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45236] = {
+		["Primary"] = "Paladin: Holy, Shaman: Elemental, Shaman: Restoration, Druid: Balance, Druid: Restoration, Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45275] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Priest: Healer",
+		["Tertiary"] = "Druid: Balance",
+	},
+	[45264] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45261] = {
+		["Primary"] = "Hunter",
+		["Secondary"] = "Warrior: DPS, Rogue",
+		["Tertiary"] = "",
+	},
+	[45268] = {
+		["Primary"] = "Paladin: Holy",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45273] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Druid: Balance, Druid: Restoration",
+		["Tertiary"] = "Shaman: Elemental, Shaman: Restoration",
+	},
+	[45271] = {
+		["Primary"] = "Druid: Balance, Druid: Restoration, Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Shaman: Restoration",
+		["Tertiary"] = "Shaman: Elemental",
+	},
+	[45274] = {
+		["Primary"] = "Shaman: Restoration",
+		["Secondary"] = "Shaman: Elemental",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45266] = {
+		["Primary"] = "Rogue",
+		["Secondary"] = "Hunter, Death Knight: DPS",
+		["Tertiary"] = "Warrior: DPS",
+	},
+	[45262] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection",
+		["Secondary"] = "Death Knight: Tank",
+		["Tertiary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+	},
+	[45272] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Druid: Balance, Druid: Restoration",
+		["Tertiary"] = "Shaman: Elemental, Shaman: Restoration",
+	},
+	[45267] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45265] = {
+		["Primary"] = "Rogue, Druid: Feral",
+		["Secondary"] = "Hunter, Shaman: Enhancement",
+		["Tertiary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+	},
+	[45269] = {
+		["Primary"] = "Paladin: Holy",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45263] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Hunter, Shaman: Enhancement, Rogue, Druid: Feral, Death Knight: DPS",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45435] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster",
+		["Secondary"] = "Priest: Healer",
+		["Tertiary"] = "Druid: Balance",
+	},
+	[45325] = {
+		["Primary"] = "Rogue, Druid: Feral",
+		["Secondary"] = "Hunter, Shaman: Enhancement",
+		["Tertiary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+	},
+	[45434] = {
+		["Primary"] = "Paladin: Holy",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45436] = {
+		["Primary"] = "Paladin: Holy",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45326] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection, Druid: Feral, Death Knight: Tank",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
+	[45438] = {
+		["Primary"] = "Paladin: Holy, Shaman: Restoration, Druid: Restoration, Priest: Healer",
+		["Secondary"] = "Shaman: Elemental, Druid: Balance, Mage, Warlock, Priest: Offensive Caster",
+		["Tertiary"] = "",
+	},
+	[45437] = {
+		["Primary"] = "Paladin: Holy, Mage, Warlock",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45441] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Druid: Balance, Druid: Restoration",
+		["Tertiary"] = "Shaman: Elemental, Shaman: Restoration",
+	},
+	[45320] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45327] = {
+		["Primary"] = "Hunter",
+		["Secondary"] = "Warrior: DPS, Rogue",
+		["Tertiary"] = "Warrior: Protection",
+	},
+	[45315] = {
+		["Primary"] = "Rogue",
+		["Secondary"] = "Death Knight: DPS",
+		["Tertiary"] = "Warrior: DPS, Shaman: Enhancement",
+	},
+	[45334] = {
+		["Primary"] = "Warrior: Protection, Paladin: Protection",
+		["Secondary"] = "Paladin: Retribution, Death Knight: Tank",
+		["Tertiary"] = "Warrior: DPS, Death Knight: DPS",
+	},
+	[45439] = {
+		["Primary"] = "Druid: Balance, Druid: Restoration",
+		["Secondary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45493] = {
+		["Primary"] = "Paladin: Holy, Shaman: Elemental, Shaman: Restoration, Druid: Balance, Druid: Restoration, Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45489] = {
+		["Primary"] = "Shaman: Enhancement, Rogue",
+		["Secondary"] = "Hunter",
+		["Tertiary"] = "Warrior: DPS",
+	},
+	[45483] = {
+		["Primary"] = "Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Druid: Balance, Druid: Restoration",
+		["Tertiary"] = "Shaman: Elemental, Shaman: Restoration",
+	},
+	[45481] = {
+		["Primary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Secondary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+		["Tertiary"] = "",
+	},
+	[45482] = {
+		["Primary"] = "Druid: Balance, Druid: Restoration",
+		["Secondary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45480] = {
+		["Primary"] = "Hunter, Shaman: Enhancement, Rogue, Druid: Feral",
+		["Secondary"] = "Warrior: DPS, Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "Warrior: Protection, Paladin: Protection, Death Knight: Tank",
+	},
+	[45479] = {
+		["Primary"] = "Druid: Balance, Druid: Restoration, Mage, Warlock, Priest: Offensive Caster, Priest: Healer",
+		["Secondary"] = "Shaman: Elemental, Shaman: Restoration",
+		["Tertiary"] = "",
+	},
+	[45505] = {
+		["Primary"] = "Paladin: Holy",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45513] = {
+		["Primary"] = "Shaman: Restoration",
+		["Secondary"] = "Shaman: Elemental",
+		["Tertiary"] = "Paladin: Holy",
+	},
+	[45504] = {
+		["Primary"] = "Hunter, Shaman: Enhancement",
+		["Secondary"] = "Paladin: Retribution",
+		["Tertiary"] = "",
+	},
+	[45509] = {
+		["Primary"] = "Druid: Feral",
+		["Secondary"] = "",
+		["Tertiary"] = "",
+	},
+	[45498] = {
+		["Primary"] = "Hunter, Druid: Feral",
+		["Secondary"] = "Paladin: Retribution, Death Knight: DPS",
+		["Tertiary"] = "",
+	},
 }
