@@ -17,7 +17,9 @@ PAGES = [
   %w(TOC-Normal raid_toc10h.htm),
   %w(TOC-Heroic raid_toc25h.htm),
   %w(ICC-Normal raid_icc10.htm),
-  %w(ICC-Heroic raid_icc25.htm)
+  %w(ICC-Heroic raid_icc25.htm),
+  %w(Ruby-Normal raid_ruby10.htm),
+  %w(Ruby-Heroic raid_ruby25.htm)
 ].freeze
 
 # Given a td row, parse through the images and
